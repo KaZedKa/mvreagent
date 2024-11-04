@@ -3,6 +3,7 @@ Powershell Script to move the default Windows recovery partition at the beginnin
 
 
 This script requires a 1GB partition created before the Windows related partitions. This is done in the installer (and to my knowledge can't be done once it's installed) like this: 
+
 ![image](https://github.com/user-attachments/assets/6f98728d-6727-4429-9650-cb15df8fd511)
 
 Once this is done, your partition setup should look like this: 
